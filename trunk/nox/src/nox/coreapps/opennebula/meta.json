@@ -1,0 +1,11 @@
+{
+    "components": [
+        {
+            "name": "opennebula" ,
+            "dependencies": [
+                "python"
+            ],
+            "python": "nox.coreapps.opennebula.opennebula" 
+        }
+    ]
+}
